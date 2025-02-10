@@ -1,1 +1,1 @@
-# Othoba-Sales-Dashboard---Power-BI-Project
+# Othoba Sales Dashboard----Power BI Project
