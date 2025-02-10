@@ -212,7 +212,6 @@ Excel for Data Preprocessing
 
 Dashboard PBIX file
 
-Screenshots of dashboard visualizations
 
 Step-by-step documentation
 
