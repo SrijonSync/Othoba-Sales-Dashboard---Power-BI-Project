@@ -209,9 +209,22 @@ Power BI for Data Visualization
 
 Excel for Data Preprocessing
 
-### Repository Contents
+## Authors
 
-Dashboard PBIX file
+[@SrijonSync](https://github.com/SrijonSync)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijon-das/)
+
+## Feedback
+
+If you have any feedback, please reach out at srijonsheon.19@gmail.com
+
+## Related
+
+Other Problem Statements:
+
+[E-commerce SQL Analysis README](https://github.com/SrijonSync/E-commerce-Sales-Analysis-2023-2024--SQL-/blob/main/README.md)
+[E-commerce SQL Analysis README](https://github.com/SrijonSync/https://github.com/SrijonSync/E-commerce-Othoba-Sales-Analysis-2023-2024/blob/main/README.md)
 
 
 Step-by-step documentation
