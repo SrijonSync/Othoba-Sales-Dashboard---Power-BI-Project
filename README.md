@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/48788396-4b2f-44e0-871c-0b628129bad4)
 # Othoba Sales Dashboard----Power BI Project
 
 ## Overview
