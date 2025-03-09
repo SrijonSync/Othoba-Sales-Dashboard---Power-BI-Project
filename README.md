@@ -224,11 +224,7 @@ If you have any feedback, please reach out at srijonsheon.19@gmail.com
 Other Problem Statements:
 
 [E-commerce SQL Analysis README](https://github.com/SrijonSync/E-commerce-Sales-Analysis-2023-2024--SQL-/blob/main/README.md)
+
 [E-commerce SQL Analysis README](https://github.com/SrijonSync/https://github.com/SrijonSync/E-commerce-Othoba-Sales-Analysis-2023-2024/blob/main/README.md)
 
 
-Step-by-step documentation
-
-# Note: The dataset used in this project is confidential and cannot be shared.
-
-# This dashboard is designed to help businesses optimize sales strategies, track performance, and improve vendor management effectively! 
